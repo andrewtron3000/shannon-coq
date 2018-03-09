@@ -20,4 +20,4 @@ tex: computational.v
 	pdflatex paper.tex
 
 clean:
-	rm -f *~ .*.aux *.glob *.vo documentation/*.aux documentation/*.log documentation/*.out documentation/*.pdf documentation/*.bbl documentation/*.blg documentation/computational.tex documentation/coqdoc.sty
+	rm -f *~ .*.aux *.glob *.vo documentation/*.aux documentation/*.log documentation/*.out documentation/*.pdf documentation/*.bbl documentation/*.blg documentation/computational.tex documentation/coqdoc.sty documentation/paper.tex
