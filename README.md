@@ -1,5 +1,7 @@
 # shannon-coq
 
+*As published in the Proceedings of [SIGBOVIK 2018](http://sigbovik.org/2018/)*.
+
 ## Overview
 
 Claude Shannon's seminal masters thesis is considered by
